@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medicine.App", "Medicine.App.csproj", "{835F662E-84DE-4150-BA20-9E17B2DBACC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medicine.AppEx", "..\Medicine.AppEx\Medicine.AppEx.csproj", "{9B3CB684-8081-4843-BF72-4BDF235AB554}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "药品信息整理-浙江医院", "..\药品信息整理-浙江医院\药品信息整理-浙江医院.vdproj", "{5E159312-FEFA-4E84-8DCB-0037D5DD5A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835F662E-84DE-4150-BA20-9E17B2DBACC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835F662E-84DE-4150-BA20-9E17B2DBACC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835F662E-84DE-4150-BA20-9E17B2DBACC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835F662E-84DE-4150-BA20-9E17B2DBACC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3CB684-8081-4843-BF72-4BDF235AB554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3CB684-8081-4843-BF72-4BDF235AB554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3CB684-8081-4843-BF72-4BDF235AB554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3CB684-8081-4843-BF72-4BDF235AB554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E159312-FEFA-4E84-8DCB-0037D5DD5A64}.Debug|Any CPU.ActiveCfg = Debug
+		{5E159312-FEFA-4E84-8DCB-0037D5DD5A64}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C423393D-4768-472C-9290-CACED03DC5D7}
+	EndGlobalSection
+EndGlobal
